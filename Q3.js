@@ -9,3 +9,5 @@ function foo(num) {
 }
 var bar = foo;
 console.log(bar(3));
+
+// correct
